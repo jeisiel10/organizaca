@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Organizacao.Sistema.Contas
 {
-	class Conta
+	 public class Conta
 	{
 		public double Saldo { get; set; }
 
